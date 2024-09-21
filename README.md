@@ -1,4 +1,4 @@
-# notes
+# Chat/Messaging Application
 
 A Chat Messaging Flutter project.
 
