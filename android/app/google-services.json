@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306305123851",
+    "project_id": "mocha-3504c",
+    "storage_bucket": "mocha-3504c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306305123851:android:156b1f3264074745e6e90e",
+        "android_client_info": {
+          "package_name": "com.example.mimiko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKaWuUlT7H1n_FcnziLFLaIeCkZbx-eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
